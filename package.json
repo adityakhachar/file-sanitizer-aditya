@@ -1,0 +1,15 @@
+{
+  "name": "file-sanitizer-aditya",
+  "version": "1.0.0",
+  "description": "A versatile package for validating and sanitizing files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["file", "validation", "sanitization", "utility"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
