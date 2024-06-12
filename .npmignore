@@ -1,0 +1,15 @@
+# Ignore development and configuration files
+.vscode/
+.idea/
+node_modules/
+
+# Ignore test files and directories
+__tests__/
+test/
+tests/
+*.test.*
+*.spec.*
+
+# # Ignore build artifacts (if any)
+# dist/
+# build/
