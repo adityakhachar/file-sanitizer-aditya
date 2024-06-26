@@ -22,6 +22,6 @@ function validateFile(file, options = {}) {
     // If all validation checks pass, return true indicating the file is valid
     return true;
   }
-  
+
   module.exports = { validateFile };
   
